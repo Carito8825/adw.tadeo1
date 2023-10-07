@@ -1,7 +1,7 @@
 INSERT INTO adw_TD_datawh.dim_product (
 product_id,
-category_key,
-subcategory_key,
+category_id,
+subcategory_id,
 product_Name,
 product_color,
 product_size,
